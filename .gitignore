@@ -3,4 +3,3 @@ env
 ranq_learning.model
 ranq_learning.model.trainables.syn1neg.npy
 ranq_learning.model.wv.vectors.npy
-ranq_learning/
